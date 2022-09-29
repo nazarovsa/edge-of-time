@@ -18,3 +18,6 @@
 - ["Date in JavaScript"](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 - ["DateTimeOffset Struct in c#"](https://learn.microsoft.com/en-us/dotnet/api/system.datetimeoffset?view=net-6.0)
 - ["Introduce Date and Time only structs" - issue on dotnet.runtime](https://github.com/dotnet/runtime/issues/49036)
+
+### Standards
+- ["ISO8601" - Wikipedia](https://en.wikipedia.org/wiki/ISO_8601)
